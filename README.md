@@ -1,3 +1,3 @@
 # Alura Midi
 
-- Projeto do curso - JavaScript para Web: Crie páginas dinâmicas
+- Projeto do curso da Alura - JavaScript para Web: Crie páginas dinâmicas
